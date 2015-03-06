@@ -1,6 +1,8 @@
 = Git In Practice
-The hotly anticipated sequel to Git Through Praxis.
+//TODO: write book
 
-Git in Practice makes
-Git in Perfect
-//TODO:think of funny first line that editor will approve
+Chapter 1
+
+Git in Practice makes Git in Perfect
+
+//TODO: Is this funny?
