@@ -8,3 +8,5 @@ Git in Practice makes Git in Perfect
 //TODO: Is this funny?
 
 No!
+
+Chapter 2
